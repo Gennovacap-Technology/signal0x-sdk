@@ -1,0 +1,6 @@
+site_name: Signal0x SDK
+pages:
+- Home: 'index.md'
+- Ruby SDK:
+    - '1. Installation': 'ruby/install.md'
+    - '2. Configuration': 'ruby/setup.md'
