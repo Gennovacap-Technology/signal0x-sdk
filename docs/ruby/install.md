@@ -22,12 +22,6 @@ Then bundle the gem
 To generate the config files, add the migration for the database, and set permissions for Signal0x
 
 `rails generate signal0x:install`
- <!-- to post to app on behalf of user
-GET Shutdown to Devise sign_out user
-GET Shutdown to active_for_authentication
-POST email_reset password_reset
-GET email_reset password_reset id_verification
-GET Restore to active_for_authentication -->
 
 <br/>
 ## Update the config file
